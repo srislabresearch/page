@@ -7,9 +7,7 @@
 
   <style>
     /* =========================================================
-       IEEE MOST-style static conference homepage
-       Replace images/IEEE.jpg with your real banner image.
-       ========================================================= */
+       */
 
     * {
       box-sizing: border-box;
@@ -224,7 +222,7 @@
     }
 
     .hero-fallback::after {
-      content: "Add your banner as images/IEEE.jpg";
+      content: "Add your banner as images/IEEE.svg";
       position: absolute;
       left: 0;
       right: 0;
@@ -429,7 +427,7 @@
     </nav>
 
     <section class="hero" aria-label="Conference banner">
-      <img src="images/IEEE.jpg"
+      <img src="images/IEEE.svg"
            alt="Conference city banner"
            onerror="this.style.display='none'; this.parentElement.querySelector('.hero-fallback').style.display='block';" />
       <div class="hero-fallback" style="display:none;"></div>

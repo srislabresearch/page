@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>IEEE MOST 2027</title>
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <div class="page">
+      <header class="site-header">
+        <div class="logo-row">
+          <a class="most-logo-link" href="index.html" aria-label="IEEE MOST home">
+            <img class="most-logo-img" src="assets/most-logo.png" alt="MOST">
+          </a>
+          <a class="ieee-logo-link" href="https://www.ieee.org/" aria-label="IEEE">
+            <img class="ieee-logo-img" src="assets/ieee-logo.png" alt="IEEE">
+          </a>
+        </div>
+        <p class="conference-title">The Fifth IEEE International Conference on Mobility: Operations, Services, and Technologies</p>
+        <div class="conference-meta-row">
+          <p class="conference-meta"><span>April 4 - 7, 2027, Pomona, California</span></p>
+          <p class="social-link">Join us on <a class="linkedin-logo-link" href="https://www.linkedin.com/company/ieee-most/?viewAsMember=true" aria-label="IEEE MOST LinkedIn"><img class="linkedin-logo-img" src="assets/linkedin.png" alt="LinkedIn"></a></p>
+        </div>
+      </header>
+
+      <nav class="top-nav" aria-label="Main navigation">
+        <ul>
+          <li><a class="active" href="index.html">HOME</a></li>
+          <li><a href="program.html">PROGRAM</a></li>
+          <li><a href="keynote.html">KEYNOTE/PANEL DISCUSSION</a></li>
+          <li><a href="organizers.html">ORGANIZERS</a></li>
+          <li><a href="call-for-papers.html">CFP</a></li>
+          <li><a href="submission.html">SUBMISSION</a></li>
+          <li><a href="venue.html">VENUE</a></li>
+          <li><a href="travelgrant.html">TRAVEL GRANT</a></li>
+          <li><a href="registration.html">REGISTRATION</a></li>
+          <li><a href="poster.html">POSTER/DEMO</a></li>
+        </ul>
+      </nav>
+
+      <img class="banner" src="assets/hero-cal-poly-pomona.png" alt="Cal Poly Pomona">
+
+      <div class="layout">
+        <main class="main-content">
+          <p>
+            Mobility profoundly shapes the fabric of our daily lives, influencing how individuals access work,
+            education, healthcare, goods, and social engagement. The modes by which we move, whether on foot,
+            by bicycle, in personal or shared vehicles, or through mass transit systems such as trains,
+            airplanes, and boats, have far-reaching implications across economic, environmental, and
+            technological dimensions. As a result, mobility has become a topic of growing importance across a
+            wide range of disciplines. While engineering and computer science continue to lead advancements
+            in transportation technologies, related fields such as data science, logistics, public health, and
+            urban planning increasingly contribute to solving complex mobility challenges.
+          </p>
+
+          <p>
+            The transportation landscape is undergoing a significant transformation with the rapid development
+            of connected and autonomous systems. These technologies are expected to enhance safety, improve
+            operational efficiency, and enable new modes of travel. However, they also bring technical
+            challenges related to scalability, reliability, infrastructure integration, and system coordination -
+            challenges that demand innovative and interdisciplinary solutions.
+          </p>
+
+          <p>
+            The <strong>IEEE International Conference on Mobility: Operations, Services, and Technologies
+            (MOST)</strong> serves as a leading international symposium dedicated to advancing the state of the
+            art in mobility. IEEE MOST provides a vital platform for researchers, engineers, practitioners, and
+            industry professionals to exchange ideas, present innovations, and explore future directions in
+            mobility across land, air, and sea domains.
+          </p>
+
+          <p>
+            IEEE MOST 2027 invites submissions of high-quality technical papers that address both foundational
+            research and emerging trends in mobility. We welcome original contributions on a wide range of
+            topics, including but not limited to: prototype systems, infrastructure design, transportation
+            analytics, logistics operations, intelligent algorithms, autonomous systems, simulation tools, edge
+            and cloud computing, and real-world implementation studies. Submissions featuring cross-disciplinary
+            insights and practical impact are particularly encouraged.
+          </p>
+
+          <section>
+            <h2>EVENTS</h2>
+            <p></p>
+          </section>
+        </main>
+
+        <aside class="sidebar">
+          <section class="side-box">
+            <h2>EVENTS</h2>
+            <p></p>
+          </section>
+
+          <section class="side-box">
+            <h2>NEWS</h2>
+            <p><strong>[05/11/2026]</strong> IEEE MOST 2027 Website is live!</p>
+          </section>
+
+          <section class="side-box dates">
+            <h2>IMPORTANT DATES</h2>
+            <p>Paper submission deadline: <strong>TBD</strong></p>
+            <p>Paper acceptance notification: <strong>TBD</strong></p>
+            <p>Camera ready deadline: <strong>TBD</strong></p>
+            <p>Travel grant application deadline: <strong>TBD</strong></p>
+            <p>Conference dates: <strong>April 4 - 7, 2027</strong></p>
+          </section>
+
+          <section class="side-box">
+            <h2>PREVIOUS CONFERENCES</h2>
+            <p><a href="https://ieeemobility.org/MOST2026/">IEEE MOST 2026</a></p>
+            <p><a href="https://ieeemobility.org/MOST2025/">IEEE MOST 2025</a></p>
+            <p><a href="https://ieeemobility.org/MOST2024/">IEEE MOST 2024</a></p>
+            <p><a href="https://ieeemobility.org/MOST2023/">IEEE MOST 2023</a></p>
+          </section>
+        </aside>
+      </div>
+
+      <footer class="sponsors">
+        <p><strong>Conference Sponsorship</strong></p>
+      </footer>
+    </div>
+  </body>
+</html>
